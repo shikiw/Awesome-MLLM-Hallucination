@@ -16,6 +16,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2023/11`
 
+- *Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges* [[paper]](https://arxiv.org/pdf/2311.03287.pdf) [[code]](https://github.com/gzcch/Bingo)
+
+  `Arxiv 2023/11`
+
 
 ## Works on Mitigating MLLM's Hallucination
 This section collects the papers on mitigating the MLLM's hallucination.
@@ -40,10 +44,5 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2023/11`
 
-## Works on Analyzing MLLM's Hallucination
-This section collects the papers on analyzing the MLLM's hallucination.
 
-- *Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges* [[paper]](https://arxiv.org/pdf/2311.03287.pdf) [[code]](https://github.com/gzcch/Bingo)
-
-  `Arxiv 2023/11`
   
