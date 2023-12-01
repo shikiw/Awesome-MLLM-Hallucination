@@ -21,7 +21,7 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
   `Arxiv 2023/11`
 
 
-## Works on Mitigating MLLM's Hallucination
+## Mitigating MLLM's Hallucination
 This section collects the papers on mitigating the MLLM's hallucination.
 
 - *Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning* [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
