@@ -28,11 +28,31 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2023/07`
 
-- *Detecting and Preventing Hallucinations inLarge Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
+- *Detecting and Preventing Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
 
   `Arxiv 2023/08`
 
-- *Woodpecker: Hallucination Correction for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
+- *VIGC: Visual Instruction Generation and Correction* [[paper]](https://arxiv.org/pdf/2308.12714.pdf)[[code]](https://github.com/opendatalab/VIGC)
+  
+  `Arxiv 2023/08`
+
+- *Evaluation and Analysis of Hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2308.15126.pdf)[[code]](https://github.com/junyangwang0410/HaELM)
+  
+  `Arxiv 2023/08`
+
+- *CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning* [[paper]](https://arxiv.org/pdf/2308.15126.pdf)
+  
+  `Arxiv 2023/09`
+
+- *Evaluation and Mitigation of Agnosia in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2309.04041.pdf)
+  
+  `Arxiv 2023/09`
+
+- *HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption* [[paper]](https://arxiv.org/pdf/2310.01779.pdf)
+  
+  `Arxiv 2023/10`
+
+- *Woodpecker: Hallucination Correction for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2311.13614.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
 
   `Arxiv 2023/10`
 
@@ -40,9 +60,20 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2023/10`
 
-- *HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data* [[paper]](https://arxiv.org/pdf/2311.13614.pdf) [[code]](https://github.com/Yuqifan1117/HalluciDoctor)
+- *HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data* [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/Yuqifan1117/HalluciDoctor)
 
   `Arxiv 2023/11`
 
+- *Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization* [[paper]](https://arxiv.org/pdf/2311.16839.pdf) 
+
+  `Arxiv 2023/11`
+
+- *Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding* [[paper]](https://arxiv.org/pdf/2311.16922.pdf) [[code]](https://github.com/DAMO-NLP-SG/VCD)
+
+  `Arxiv 2023/11`
+
+- *OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation* [[paper]](https://arxiv.org/pdf/2311.17911.pdf) [[code]](https://github.com/shikiw/OPERA)
+
+  `Arxiv 2023/11`
 
   
