@@ -68,6 +68,10 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2023/11`
 
+- *Mitigating Hallucination in Visual Language Models with Visual Supervision* [[paper]](https://arxiv.org/pdf/2311.16479.pdf) 
+
+  `Arxiv 2023/11`
+
 - *Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding* [[paper]](https://arxiv.org/pdf/2311.16922.pdf) [[code]](https://github.com/DAMO-NLP-SG/VCD)
 
   `Arxiv 2023/11`
