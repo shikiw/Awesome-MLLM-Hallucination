@@ -8,6 +8,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `EMNLP 2023`
 
+- *Aligning Large Multimodal Models with Factually Augmented RLHF* [[paper]](https://arxiv.org/pdf/2309.14525.pdf) [[code]](https://github.com/llava-rlhf/LLaVA-RLHF)
+
+  `Arxiv 2023/09`
+
 - *HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models* [[paper]](https://arxiv.org/pdf/2310.14566.pdf) [[code]](https://github.com/tianyi-lab/HallusionBench)
 
   `Arxiv 2023/10`
@@ -48,6 +52,10 @@ This section collects the papers on mitigating the MLLM's hallucination.
   
   `Arxiv 2023/09`
 
+- *Aligning Large Multimodal Models with Factually Augmented RLHF* [[paper]](https://arxiv.org/pdf/2309.14525.pdf) [[code]](https://github.com/llava-rlhf/LLaVA-RLHF)
+
+  `Arxiv 2023/09`
+
 - *HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption* [[paper]](https://arxiv.org/pdf/2310.01779.pdf)
   
   `Arxiv 2023/10`
@@ -80,4 +88,18 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2023/11`
 
-  
+- *RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback* [[paper]](https://arxiv.org/pdf/2312.00849.pdf) [[code]](https://github.com/RLHF-V/RLHF-V)
+
+  `Arxiv 2023/12`
+
+- *Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites* [[paper]](https://arxiv.org/pdf/2312.01701.pdf) [[code]](https://github.com/Anonymousanoy/FOHE)
+
+  `Arxiv 2023/12`
+
+- *MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations* [[paper]](https://arxiv.org/pdf/2312.03631.pdf) [[code]](https://github.com/assafbk/mocha_code)
+
+  `Arxiv 2023/12`
+
+- *Hallucination Augmented Contrastive Learning for Multimodal Large Language Model* [[paper]](https://arxiv.org/pdf/2312.06968.pdf) 
+
+  `Arxiv 2023/12`
