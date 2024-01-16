@@ -24,6 +24,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2023/11`
 
+- *Hallucination Benchmark in Medical Visual Question Answering* [[paper]](https://arxiv.org/pdf/2401.05827v1.pdf)
+
+  `Arxiv 2024/01`
+
 
 ## Mitigating MLLM's Hallucination
 This section collects the papers on mitigating the MLLM's hallucination.
