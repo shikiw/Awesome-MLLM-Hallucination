@@ -32,9 +32,13 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 ## Mitigating MLLM's Hallucination
 This section collects the papers on mitigating the MLLM's hallucination.
 
-- *Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning* [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
+- **Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning** [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
 
-  `Arxiv 2023/07`
+  `ICLR 2024`
+
+- **Analyzing and Mitigating Object Hallucination in Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2310.00754.pdf) [[code]](https://github.com/YiyangZhou/LURE)
+
+  `ICLR 2024`
 
 - *Detecting and Preventing Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
 
@@ -65,10 +69,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2023/10`
 
 - *Woodpecker: Hallucination Correction for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2311.13614.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
-
-  `Arxiv 2023/10`
-
-- *Analyzing and Mitigating Object Hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2310.00754.pdf) [[code]](https://github.com/YiyangZhou/LURE)
 
   `Arxiv 2023/10`
 
