@@ -107,3 +107,11 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Hallucination Augmented Contrastive Learning for Multimodal Large Language Model* [[paper]](https://arxiv.org/pdf/2312.06968.pdf) 
 
   `Arxiv 2023/12`
+
+- *Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2401.09861v1.pdf) 
+
+  `Arxiv 2024/01`
+
+- *On the Audio Hallucinations in Large Audio-Video Language Models* [[paper]](https://arxiv.org/pdf/2401.09774v1.pdf) 
+
+  `Arxiv 2024/01`
