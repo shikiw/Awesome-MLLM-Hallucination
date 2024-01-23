@@ -68,11 +68,11 @@ This section collects the papers on mitigating the MLLM's hallucination.
   
   `Arxiv 2023/10`
 
-- *Woodpecker: Hallucination Correction for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2311.13614.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
+- *Woodpecker: Hallucination Correction for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
 
   `Arxiv 2023/10`
 
-- *HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data* [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/Yuqifan1117/HalluciDoctor)
+- *HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data* [[paper]](https://arxiv.org/pdf/2311.13614.pdf) [[code]](https://github.com/Yuqifan1117/HalluciDoctor)
 
   `Arxiv 2023/11`
 
