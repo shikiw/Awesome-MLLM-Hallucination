@@ -1,7 +1,14 @@
 # Awesome Hallucination Papers in MLLMs
 A curated list of papers about hallucination in multi-modal large language models (MLLMs)
 
-## MLLM's Hallucination Benchmarks
+## Survey Papers
+This section collects the survey papers about MLLM's hallucination.
+
+- **A Survey on Hallucination in Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2402.00253v1.pdf)
+
+  `Arxiv 2024/02`
+
+## Benchmark Papers
 This section collects the benchmark papers on evaluating MLLM's hallucination.
 
 - **Evaluating Object Hallucination in Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2305.10355.pdf) [[code]](https://github.com/RUCAIBox/POPE)
@@ -29,7 +36,7 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
   `Arxiv 2024/01`
 
 
-## Mitigating MLLM's Hallucination
+## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
 - **Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning** [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
