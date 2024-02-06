@@ -122,3 +122,12 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *On the Audio Hallucinations in Large Audio-Video Language Models* [[paper]](https://arxiv.org/pdf/2401.09774v1.pdf) 
 
   `Arxiv 2024/01`
+
+- *Skip \n: A simple method to reduce hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2402.01345v1.pdf) 
+
+  `Arxiv 2024/02`
+
+- *Unified Hallucination Detection for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2402.03190v1.pdf) [[code]](https://github.com/OpenKG-ORG/EasyDetect)
+
+  `Arxiv 2024/02`
+
