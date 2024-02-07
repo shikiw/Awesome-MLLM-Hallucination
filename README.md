@@ -131,3 +131,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/02`
 
+- *The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs* [[paper]](https://arxiv.org/pdf/2402.03757v1.pdf) [[code]](https://github.com/MasaiahHan/CorrelationQA)
+
+  `Arxiv 2024/02`
