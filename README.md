@@ -39,6 +39,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/02`
 
+- *Unified Hallucination Detection for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2402.03190v1.pdf) [[code]](https://github.com/OpenKG-ORG/EasyDetect)
+
+  `Arxiv 2024/02`
+
 
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
