@@ -146,3 +146,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2402.09801v1.pdf) 
 
   `Arxiv 2024/02`
+
+- *Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2402.11622v1.pdf) [[code]](https://github.com/Hyperwjf/LogicCheckGPT)
+
+  `Arxiv 2024/02`
