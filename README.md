@@ -43,6 +43,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/02`
 
+- *Visual Hallucinations of Multi-modal Large Language Models* [[paper]](https://arxiv.org/pdf/2402.14683v1.pdf) [[code]](https://github.com/wenhuang2000/VHTest)
+
+  `Arxiv 2024/02`
+
 
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
@@ -148,5 +152,9 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2024/02`
 
 - *Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2402.11622v1.pdf) [[code]](https://github.com/Hyperwjf/LogicCheckGPT)
+
+  `Arxiv 2024/02`
+
+- *Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective* [[paper]](https://arxiv.org/pdf/2402.14545v1.pdf) [[code]](https://github.com/yuezih/less-is-more)
 
   `Arxiv 2024/02`
