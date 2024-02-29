@@ -47,6 +47,9 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/02`
 
+- *Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2402.15721v1.pdf)
+
+  `Arxiv 2024/02`
 
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
@@ -58,6 +61,14 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - **Analyzing and Mitigating Object Hallucination in Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2310.00754.pdf) [[code]](https://github.com/YiyangZhou/LURE)
 
   `ICLR 2024`
+
+- **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation** [[paper]](https://arxiv.org/pdf/2311.17911.pdf) [[code]](https://github.com/shikiw/OPERA)
+
+  `CVPR 2024`
+
+- **Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding** [[paper]](https://arxiv.org/pdf/2311.16922.pdf) [[code]](https://github.com/DAMO-NLP-SG/VCD)
+
+  `CVPR 2024`
 
 - *Detecting and Preventing Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
 
@@ -100,14 +111,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2023/11`
 
 - *Mitigating Hallucination in Visual Language Models with Visual Supervision* [[paper]](https://arxiv.org/pdf/2311.16479.pdf) 
-
-  `Arxiv 2023/11`
-
-- *Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding* [[paper]](https://arxiv.org/pdf/2311.16922.pdf) [[code]](https://github.com/DAMO-NLP-SG/VCD)
-
-  `Arxiv 2023/11`
-
-- *OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation* [[paper]](https://arxiv.org/pdf/2311.17911.pdf) [[code]](https://github.com/shikiw/OPERA)
 
   `Arxiv 2023/11`
 
@@ -156,5 +159,13 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2024/02`
 
 - *Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective* [[paper]](https://arxiv.org/pdf/2402.14545v1.pdf) [[code]](https://github.com/yuezih/less-is-more)
+
+  `Arxiv 2024/02`
+
+- *Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding* [[paper]](https://arxiv.org/pdf/2402.15300v1.pdf)
+
+  `Arxiv 2024/02`
+
+- *IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding* [[paper]](https://arxiv.org/pdf/2402.18476v1.pdf)
 
   `Arxiv 2024/02`
