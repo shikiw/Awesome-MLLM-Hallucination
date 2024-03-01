@@ -62,6 +62,10 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `ICLR 2024`
 
+- **VIGC: Visual Instruction Generation and Correction** [[paper]](https://arxiv.org/pdf/2308.12714.pdf)[[code]](https://github.com/opendatalab/VIGC)
+  
+  `AAAI 2024`
+
 - **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation** [[paper]](https://arxiv.org/pdf/2311.17911.pdf) [[code]](https://github.com/shikiw/OPERA)
 
   `CVPR 2024`
@@ -72,10 +76,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
 - *Detecting and Preventing Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
 
-  `Arxiv 2023/08`
-
-- *VIGC: Visual Instruction Generation and Correction* [[paper]](https://arxiv.org/pdf/2308.12714.pdf)[[code]](https://github.com/opendatalab/VIGC)
-  
   `Arxiv 2023/08`
 
 - *Evaluation and Analysis of Hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2308.15126.pdf)[[code]](https://github.com/junyangwang0410/HaELM)
