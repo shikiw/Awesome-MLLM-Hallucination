@@ -15,13 +15,13 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `EMNLP 2023`
 
+- **HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models** [[paper]](https://arxiv.org/pdf/2310.14566.pdf) [[code]](https://github.com/tianyi-lab/HallusionBench)
+
+  `CVPR 2024`
+
 - *Aligning Large Multimodal Models with Factually Augmented RLHF* [[paper]](https://arxiv.org/pdf/2309.14525.pdf) [[code]](https://github.com/llava-rlhf/LLaVA-RLHF)
 
   `Arxiv 2023/09`
-
-- *HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models* [[paper]](https://arxiv.org/pdf/2310.14566.pdf) [[code]](https://github.com/tianyi-lab/HallusionBench)
-
-  `Arxiv 2023/10`
 
 - *An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation* [[paper]](https://arxiv.org/pdf/2311.07397.pdf) [[code]](https://github.com/junyangwang0410/AMBER)
 
