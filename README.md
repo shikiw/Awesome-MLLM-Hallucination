@@ -169,3 +169,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding* [[paper]](https://arxiv.org/pdf/2402.18476v1.pdf)
 
   `Arxiv 2024/02`
+
+- *HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding* [[paper]](https://arxiv.org/pdf/2403.00425v1.pdf) [[code]](https://github.com/BillChan226/HALC)
+
+  `Arxiv 2024/03`
