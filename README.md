@@ -173,3 +173,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding* [[paper]](https://arxiv.org/pdf/2403.00425v1.pdf) [[code]](https://github.com/BillChan226/HALC)
 
   `Arxiv 2024/03`
+
+- *Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective* [[paper]](https://arxiv.org/pdf/2403.01373v1.pdf)
+
+  `Arxiv 2024/03`
