@@ -177,3 +177,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective* [[paper]](https://arxiv.org/pdf/2403.01373v1.pdf)
 
   `Arxiv 2024/03`
+
+- *Debiasing Large Visual Language Models* [[paper]](https://arxiv.org/pdf/2403.05262.pdf)
+
+  `Arxiv 2024/03`
