@@ -74,6 +74,10 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `CVPR 2024`
 
+- **Hallucination Augmented Contrastive Learning for Multimodal Large Language Model** [[paper]](https://arxiv.org/pdf/2312.06968.pdf) 
+
+  `CVPR 2024`
+
 - *Detecting and Preventing Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
 
   `Arxiv 2023/08`
@@ -123,10 +127,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2023/12`
 
 - *MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations* [[paper]](https://arxiv.org/pdf/2312.03631.pdf) [[code]](https://github.com/assafbk/mocha_code)
-
-  `Arxiv 2023/12`
-
-- *Hallucination Augmented Contrastive Learning for Multimodal Large Language Model* [[paper]](https://arxiv.org/pdf/2312.06968.pdf) 
 
   `Arxiv 2023/12`
 
