@@ -78,6 +78,10 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `CVPR 2024`
 
+- **RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback** [[paper]](https://arxiv.org/pdf/2312.00849.pdf) [[code]](https://github.com/RLHF-V/RLHF-V)
+
+  `CVPR 2024`
+
 - *Detecting and Preventing Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2308.06394.pdf) 
 
   `Arxiv 2023/08`
@@ -117,10 +121,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Mitigating Hallucination in Visual Language Models with Visual Supervision* [[paper]](https://arxiv.org/pdf/2311.16479.pdf) 
 
   `Arxiv 2023/11`
-
-- *RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback* [[paper]](https://arxiv.org/pdf/2312.00849.pdf) [[code]](https://github.com/RLHF-V/RLHF-V)
-
-  `Arxiv 2023/12`
 
 - *Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites* [[paper]](https://arxiv.org/pdf/2312.01701.pdf) [[code]](https://github.com/Anonymousanoy/FOHE)
 
