@@ -51,6 +51,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/02`
 
+- *PhD: A Prompted Visual Hallucination Evaluation Dataset* [[paper]](https://arxiv.org/pdf/2403.11116v1.pdf) [[code]](https://github.com/jiazhen-code/IntrinsicHallu)
+
+  `Arxiv 2024/03`
+
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
@@ -179,5 +183,9 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2024/03`
 
 - *Debiasing Large Visual Language Models* [[paper]](https://arxiv.org/pdf/2403.05262.pdf)
+
+  `Arxiv 2024/03`
+
+- *AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2403.08542v1.pdf)
 
   `Arxiv 2024/03`
