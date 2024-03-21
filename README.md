@@ -189,3 +189,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2403.08542v1.pdf)
 
   `Arxiv 2024/03`
+
+- *What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models* [[paper]](https://arxiv.org/pdf/2403.13513v1.pdf)
+
+  `Arxiv 2024/03`
