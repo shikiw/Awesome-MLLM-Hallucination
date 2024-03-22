@@ -197,3 +197,11 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models* [[paper]](https://arxiv.org/pdf/2403.13513v1.pdf)
 
   `Arxiv 2024/03`
+
+- *Multi-Modal Hallucination Control by Visual Information Grounding* [[paper]](https://arxiv.org/pdf/2403.14003v1.pdf)
+
+  `Arxiv 2024/03`
+
+- *Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination* [[paper]](https://arxiv.org/pdf/2403.14401v1.pdf) [[code]](https://github.com/DingchenYang99/Pensieve)
+
+  `Arxiv 2024/03`
