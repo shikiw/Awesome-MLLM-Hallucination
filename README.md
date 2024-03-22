@@ -118,6 +118,10 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2023/11`
 
+- *VOLCANO: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision* [[paper]](https://arxiv.org/pdf/2311.07362.pdf) [[code]](https://github.com/kaistAI/Volcano)
+
+  `Arxiv 2023/11`
+
 - *Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization* [[paper]](https://arxiv.org/pdf/2311.16839.pdf) 
 
   `Arxiv 2023/11`
