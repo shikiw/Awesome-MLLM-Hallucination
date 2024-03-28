@@ -205,3 +205,23 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination* [[paper]](https://arxiv.org/pdf/2403.14401v1.pdf) [[code]](https://github.com/DingchenYang99/Pensieve)
 
   `Arxiv 2024/03`
+
+- *Hallucination Detection in Foundation Models for Decision-Making: A Flexible Definition and Review of the State of the Art* [[paper]](https://arxiv.org/pdf/2403.16527v1.pdf)
+
+  `Arxiv 2024/03`
+
+- *Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning* [[paper]](https://arxiv.org/pdf/2403.15048v2.pdf)
+
+  `Arxiv 2024/03`
+
+- *Visual Hallucination: Definition, Quantification, and Prescriptive Remediations* [[paper]](https://arxiv.org/pdf/2403.17306v1.pdf)
+
+  `Arxiv 2024/03`
+
+- *Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models* [[paper]](https://arxiv.org/pdf/2403.16167v2.pdf)
+
+  `Arxiv 2024/03`
+
+- *Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding* [[paper]](https://arxiv.org/pdf/2403.18715v1.pdf)
+
+  `Arxiv 2024/03`
