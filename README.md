@@ -55,6 +55,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/03`
 
+- *Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models* [[paper]](https://arxiv.org/pdf/2403.20331v1.pdf) [[code]](https://github.com/AtsuMiyai/UPD/)
+
+  `Arxiv 2024/04`
+
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
