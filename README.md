@@ -59,6 +59,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/04`
 
+- *THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2405.05256v1)
+
+  `Arxiv 2024/05`
+
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
