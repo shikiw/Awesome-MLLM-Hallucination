@@ -233,3 +233,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding* [[paper]](https://arxiv.org/pdf/2403.18715v1.pdf)
 
   `Arxiv 2024/03`
+
+- *Automated Multi-level Preference for MLLMs* [[paper]](https://www.arxiv.org/pdf/2405.11165)
+
+  `Arxiv 2024/05`
