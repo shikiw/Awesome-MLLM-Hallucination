@@ -237,3 +237,15 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Automated Multi-level Preference for MLLMs* [[paper]](https://www.arxiv.org/pdf/2405.11165)
 
   `Arxiv 2024/05`
+
+- *CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models* [[paper]](https://arxiv.org/pdf/2405.13684v1)
+
+  `Arxiv 2024/05`
+
+- *VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap* [[paper]](http://arxiv.org/pdf/2405.15683v1)
+
+  `Arxiv 2024/05`
+
+- *Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization* [[paper]](https://arxiv.org/pdf/2405.15356v1)
+
+  `Arxiv 2024/05`
