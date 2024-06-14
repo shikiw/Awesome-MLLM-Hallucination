@@ -249,3 +249,31 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization* [[paper]](https://arxiv.org/pdf/2405.15356v1)
 
   `Arxiv 2024/05`
+
+- *Mitigating Dialogue Hallucination for Large Vision Language Models via Adversarial Instruction Tuning* [[paper]](https://arxiv.org/pdf/2403.10492v2)
+
+  `Arxiv 2024/05`
+
+- *RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs* [[paper]](https://arxiv.org/pdf/2405.17821v1)
+
+  `Arxiv 2024/05`
+
+- *MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification* [[paper]](https://arxiv.org/pdf/2405.19186v1)
+
+  `Arxiv 2024/05`
+
+- *Mitigating Object Hallucination via Data Augmented Contrastive Tuning* [[paper]](https://arxiv.org/pdf/2405.18654v1)
+
+  `Arxiv 2024/05`
+
+- *NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2405.20081v2) [[code]](https://kaiwu5.github.io/noiseboost)
+
+  `Arxiv 2024/06`
+
+- *CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models* [[paper]](https://arxiv.org/pdf/2406.01920v1) [[code]](https://ivy-lvlm.github.io/CODE/)
+
+  `Arxiv 2024/06`
+
+- *Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models* [[paper]](http://arxiv.org/pdf/2406.08402v1)
+
+  `Arxiv 2024/06`
