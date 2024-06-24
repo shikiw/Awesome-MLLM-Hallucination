@@ -66,6 +66,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
+- **Mitigating Object Hallucination via Data Augmented Contrastive Tuning** [[paper]](https://arxiv.org/abs/2405.18654)
+  
+  `Arxiv 2024/05`
+
 - **Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning** [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
 
   `ICLR 2024`
