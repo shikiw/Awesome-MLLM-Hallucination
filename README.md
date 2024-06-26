@@ -66,10 +66,6 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
-- **Mitigating Object Hallucination via Data Augmented Contrastive Tuning** [[paper]](https://arxiv.org/abs/2405.18654)
-  
-  `Arxiv 2024/05`
-
 - **Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning** [[paper]](https://arxiv.org/pdf/2306.14565.pdf) [[code]](https://github.com/FuxiaoLiu/LRV-Instruction)
 
   `ICLR 2024`
@@ -279,5 +275,45 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2024/06`
 
 - *Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models* [[paper]](http://arxiv.org/pdf/2406.08402v1)
+
+  `Arxiv 2024/06`
+
+- *Detecting and Evaluating Medical Hallucinations in Large Vision Language Models* [[paper]](https://arxiv.org/pdf/2406.10185v1)
+
+  `Arxiv 2024/06`
+
+- *AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models* [[paper]](https://arxiv.org/pdf/2406.10900v1)
+
+  `Arxiv 2024/06`
+
+- *Hallucination Mitigation Prompts Long-term Video Understanding* [[paper]](https://arxiv.org/pdf/2406.11333v1) [[code]](https://github.com/lntzm/CVPR24Track-LongVideo)
+
+  `Arxiv 2024/06`
+
+- *Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?* [[paper]](https://arxiv.org/pdf/2406.12663v1)
+
+  `Arxiv 2024/06`
+
+- *Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?* [[paper]](https://arxiv.org/pdf/2406.14492v1)
+
+  `Arxiv 2024/06`
+
+- *VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning* [[paper]](https://arxiv.org/pdf/2406.14056v2)
+
+  `Arxiv 2024/06`
+
+- *AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention* [[paper]](https://arxiv.org/pdf/2406.12718v2) [[code]](https://github.com/Lackel/AGLA)
+
+  `Arxiv 2024/06`
+
+- *Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2406.16449v1) [[code]](https://github.com/mrwu-mac/R-Bench)
+
+  `Arxiv 2024/06`
+
+- *VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models* [[paper]](https://arxiv.org/pdf/2406.16338v1) [[code]](https://github.com/patrick-tssn/VideoHallucer)
+
+  `Arxiv 2024/06`
+
+- *Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models* [[paper]](https://github.com/HQHBench/HQHBench) [[code]](https://github.com/HQHBench/HQHBench)
 
   `Arxiv 2024/06`
