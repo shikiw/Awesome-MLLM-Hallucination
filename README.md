@@ -334,7 +334,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/07`
 
-- *Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.11422v1)[[code]] (https://zjr2000.github.io/projects/reverie)
+- *Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.11422v1)[[code]](https://zjr2000.github.io/projects/reverie)
 
   `Arxiv 2024/07`
 
