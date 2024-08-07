@@ -75,6 +75,10 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/08`
 
+- *VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models* [[paper]](https://arxiv.org/pdf/2406.16338v1) [[code]](https://github.com/patrick-tssn/VideoHallucer)
+
+  `Arxiv 2024/06`
+
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
@@ -319,10 +323,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
   `Arxiv 2024/06`
 
 - *Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2406.16449v1) [[code]](https://github.com/mrwu-mac/R-Bench)
-
-  `Arxiv 2024/06`
-
-- *VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models* [[paper]](https://arxiv.org/pdf/2406.16338v1) [[code]](https://github.com/patrick-tssn/VideoHallucer)
 
   `Arxiv 2024/06`
 
