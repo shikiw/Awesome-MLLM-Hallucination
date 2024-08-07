@@ -330,19 +330,19 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/06`
 
-- *Multi-Object Hallucination in Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.06192v1)[[code]](https://multi-object-hallucination.github.io/)
+- *Multi-Object Hallucination in Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.06192v1) [[code]](https://multi-object-hallucination.github.io/)
 
   `Arxiv 2024/07`
 
-- *Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.11422v1)[[code]](https://zjr2000.github.io/projects/reverie)
+- *Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.11422v1) [[code]](https://zjr2000.github.io/projects/reverie)
 
   `Arxiv 2024/07`
 
-- *BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models* [[paper]](https://arxiv.org/pdf/2407.13442v1)[[code]](https://beafbench.github.io/)
+- *BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models* [[paper]](https://arxiv.org/pdf/2407.13442v1) [[code]](https://beafbench.github.io/)
 
   `Arxiv 2024/07`
 
-- *Interpreting and Mitigating Hallucination in MLLMs through Multi-agent Debate* [[paper]](https://arxiv.org/pdf/2407.20505v1)[[code]](https://github.com/LZzz2000/MAD)
+- *Interpreting and Mitigating Hallucination in MLLMs through Multi-agent Debate* [[paper]](https://arxiv.org/pdf/2407.20505v1) [[code]](https://github.com/LZzz2000/MAD)
 
   `Arxiv 2024/07`
 
@@ -350,7 +350,7 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/08`
 
-- *Mitigating Multilingual Hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.00550v1)[[code]](https://github.com/ssmisya/MHR)
+- *Mitigating Multilingual Hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.00550v1) [[code]](https://github.com/ssmisya/MHR)
 
   `Arxiv 2024/08`
 
@@ -358,6 +358,6 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/08`
 
-- *Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.02032v1)[[code]](https://github.com/huofushuo/SID)
+- *Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.02032v1) [[code]](https://github.com/huofushuo/SID)
 
   `Arxiv 2024/08`
