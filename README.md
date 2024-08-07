@@ -360,4 +360,4 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
 - *Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.02032v1)[[code]](https://github.com/huofushuo/SID)
 
-  `Arxiv 2024/0`
+  `Arxiv 2024/08`
