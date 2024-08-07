@@ -63,6 +63,18 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/05`
 
+- *Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models* [[paper]](https://github.com/HQHBench/HQHBench) [[code]](https://github.com/HQHBench/HQHBench)
+
+  `Arxiv 2024/06`
+
+- *HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning* [[paper]](https://arxiv.org/pdf/2407.15680v1)[[code]](https://github.com/google/haloquest)
+
+  `Arxiv 2024/07`
+
+- *Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs* [[paper]](https://arxiv.org/pdf/2408.01355v2)[[code]](https://github.com/NJUNLP/Hallu-PI)
+
+  `Arxiv 2024/08`
+
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
@@ -314,6 +326,38 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/06`
 
-- *Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models* [[paper]](https://github.com/HQHBench/HQHBench) [[code]](https://github.com/HQHBench/HQHBench)
+- *Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification* [[paper]](https://arxiv.org/pdf/2407.02352v1)
 
   `Arxiv 2024/06`
+
+- *Multi-Object Hallucination in Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.06192v1)[[code]](https://multi-object-hallucination.github.io/)
+
+  `Arxiv 2024/07`
+
+- *Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2407.11422v1)[[code]] (https://zjr2000.github.io/projects/reverie)
+
+  `Arxiv 2024/07`
+
+- *BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models* [[paper]](https://arxiv.org/pdf/2407.13442v1)[[code]](https://beafbench.github.io/)
+
+  `Arxiv 2024/07`
+
+- *Interpreting and Mitigating Hallucination in MLLMs through Multi-agent Debate* [[paper]](https://arxiv.org/pdf/2407.20505v1)[[code]](https://github.com/LZzz2000/MAD)
+
+  `Arxiv 2024/07`
+
+- *Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs* [[paper]](https://arxiv.org/pdf/2407.21771v1)[[code]](https://lalbj.github.io/projects/PAI/)
+
+  `Arxiv 2024/08`
+
+- *Mitigating Multilingual Hallucination in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.00550v1)[[code]](https://github.com/ssmisya/MHR)
+
+  `Arxiv 2024/08`
+
+- *Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation* [[paper]](https://arxiv.org/pdf/2408.00555v1)
+
+  `Arxiv 2024/08`
+
+- *Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.02032v1)[[code]](https://github.com/huofushuo/SID)
+
+  `Arxiv 2024/0`
