@@ -79,6 +79,14 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 
   `Arxiv 2024/06`
 
+- *Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2408.09429v1) 
+
+  `Arxiv 2024/08`
+
+- *PhD: A Prompted Visual Hallucination Evaluation Dataset* [[paper]](https://arxiv.org/pdf/2403.11116v2) 
+
+  `Arxiv 2024/08`
+
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
 
@@ -361,3 +369,23 @@ This section collects the papers on mitigating the MLLM's hallucination.
 - *Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.02032v1) [[code]](https://github.com/huofushuo/SID)
 
   `Arxiv 2024/08`
+
+- *Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)* [[paper]](https://arxiv.org/pdf/2408.04664v1) 
+
+  `Arxiv 2024/08`
+
+- *Reference-free Hallucination Detection for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2408.05767v1)
+
+  `Arxiv 2024/08`
+
+- *Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models* [[paper]](https://arxiv.org/pdf/2310.05338v2)
+
+  `Arxiv 2024/08`
+
+- *CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs* [[paper]](https://arxiv.org/pdf/2408.10433v1)
+
+  `Arxiv 2024/08`
+
+
+
+
