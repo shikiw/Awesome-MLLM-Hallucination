@@ -8,7 +8,7 @@ This section collects the survey papers about MLLM's hallucination.
 
   `Arxiv 2024/02`
 
-## Benchmark Papers
+## Hallucination Evaluation
 This section collects the benchmark papers on evaluating MLLM's hallucination.
 
 - **Evaluating Object Hallucination in Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2305.10355.pdf) [[code]](https://github.com/RUCAIBox/POPE)
@@ -86,6 +86,67 @@ This section collects the benchmark papers on evaluating MLLM's hallucination.
 - *PhD: A Prompted Visual Hallucination Evaluation Dataset* [[paper]](https://arxiv.org/pdf/2403.11116v2) 
 
   `Arxiv 2024/08`
+
+- *Understanding Multimodal Hallucination with Parameter-Free Representation Alignment (Pfram)* [[paper]](http://arxiv.org/pdf/2409.01151v1) [[code]](https://github.com/yellow-binary-tree/Pfram)
+
+  `Arxiv 2024/09`
+
+- *Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data* [[paper]](http://arxiv.org/pdf/2409.00238v1)
+
+  `Arxiv 2024/09`
+
+- *Explore the Hallucination on Low-level Perception for MLLMs* [[paper]](https://arxiv.org/pdf/2409.09748v1) 
+
+  `Arxiv 2024/09`
+
+- *ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2409.09318v1)
+
+  `Arxiv 2024/09`
+
+- *FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs* [[paper]](https://arxiv.org/pdf/2409.13612v1) [[code]](https://anonymous.4open.science/r/FIHA-45BB)
+
+  `Arxiv 2024/09`
+
+- *EventHallusion: Diagnosing Event Hallucinations in Video LLMs* [[paper]](https://arxiv.org/pdf/2409.16597v1) [[code]](https://github.com/Stevetich/EventHallusion)
+
+  `Arxiv 2024/09`
+
+- *AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models* [[paper]](https://arxiv.org/pdf/2406.10900v2) [[code]](https://github.com/wuxiyang1996/AutoHallusion)
+
+  `Arxiv 2024/10`
+
+- *Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2410.11242v1) [[code]](https://github.com/lycheeefish/VHExpansion)
+
+  `Arxiv 2024/10`
+
+- *LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models* [[paper]](https://arxiv.org/pdf/2410.09962v2) [[code]](https://github.com/hanqiu-hq/LongHalQA)
+
+  `Arxiv 2024/10`
+
+- *The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio* [[paper]](https://arxiv.org/pdf/2410.12787v1) [[code]](https://arxiv.org/pdf/github.com/DAMO-NLP-SG/CMM)
+
+  `Arxiv 2024/10`
+
+- *AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models* [[paper]](https://arxiv.org/pdf/2410.18325v1) [[code]]()
+
+  `Arxiv 2024/10`
+
+- *UNIFIED TRIPLET-LEVEL HALLUCINATION EVALUATION FOR LARGE VISION-LANGUAGE MODELS* [[paper]](https://arxiv.org/pdf/2410.23114v2) [[code]](https://github.com/wujunjie1998/Tri-HE)
+
+  `Arxiv 2024/11`
+
+- *H-POPE: Hierarchical Polling-based Probing Evaluation of Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2411.04077v1) 
+
+  `Arxiv 2024/11`
+
+- *VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation* [[paper]](https://arxiv.org/pdf/2411.11919v1) [[code]](https://github.com/Ruiyang-061X/VL-Uncertainty)
+
+  `Arxiv 2024/11`
+
+- *ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large Multimodal Models* [[paper]](https://arxiv.org/abs/2411.10867) 
+
+  `Arxiv 2024/11`
+
 
 ## Hallucination Mitigation
 This section collects the papers on mitigating the MLLM's hallucination.
@@ -386,6 +447,104 @@ This section collects the papers on mitigating the MLLM's hallucination.
 
   `Arxiv 2024/08`
 
+- *ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2408.13906v1) [[code]](https://github.com/yejipark-m/ConVis)
 
+  `Arxiv 2024/08`
+
+- *Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning* [[paper]](https://github.com/GasolSun36/MVP)
+
+  `Arxiv 2024/08`
+
+- *Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding* [[paper]](https://arxiv.org/pdf/2409.06485v1) 
+
+  `Arxiv 2024/09`
+
+- *EventHallusion: Diagnosing Event Hallucinations in Video LLMs* [[paper]](https://arxiv.org/pdf/2409.16597v1) [[code]](https://github.com/Stevetich/EventHallusion)
+
+  `Arxiv 2024/09`
+
+- *A Unified Hallucination Mitigation Framework for Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2409.16494v1) 
+
+  `Arxiv 2024/09`
+
+- *HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding* [[paper]](https://arxiv.org/pdf/2409.20429v1) [[code]](https://github.com/F-Yuan303/HELPD)
+
+  `Arxiv 2024/09`
+
+- *INTERPRETING AND EDITING VISION-LANGUAGE REPRESENTATIONS TO MITIGATE HALLUCINATIONS* [[paper]](https://arxiv.org/pdf/2410.02762v1) [[code]](https://github.com/nickjiang2378/vl-interp)
+
+  `Arxiv 2024/10`
+
+- *Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models* [[paper]](https://arxiv.org/pdf/2410.03577v1) [[code]](https://github.com/1zhou-Wang/MemVR)
+
+  `Arxiv 2024/10`
+
+- *Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models* [[paper]](https://arxiv.org/pdf/2410.03176v1) [[code]](https://github.com/Yufang-Liu/clip_hallucination)
+
+  `Arxiv 2024/10`
+
+- *Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models* [[paper]](https://arxiv.org/pdf/2403.16167v4) 
+
+  `Arxiv 2024/10`
+
+- *Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality* [[paper]](https://arxiv.org/pdf/2410.04780v1) [[code]](https://github.com/The-Martyr/CausalMM)
+
+  `Arxiv 2024/10`
+
+- *DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination* [[paper]](https://arxiv.org/pdf/2410.04514v1) 
+
+  `Arxiv 2024/10`
+
+- *From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models* [[paper]](https://arxiv.org/pdf/2410.06795v1)
+
+  `Arxiv 2024/10`
+
+- *Data-augmented phrase-level alignment for mitigating object hallucination* [[paper]](https://arxiv.org/pdf/2405.18654v2) 
+
+  `Arxiv 2024/10`
+
+- *Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs* [[paper]](https://arxiv.org/pdf/2405.15683v2) [[code]](https://github.com/Sreyan88/VDGD)
+
+  `Arxiv 2024/10`
+
+- *Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions* [[paper]](https://arxiv.org/pdf/2410.11701v1) 
+
+  `Arxiv 2024/10`
+
+- *MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation* [[paper]](https://arxiv.org/pdf/2410.11779v1) [[code]](https://github.com/zjunlp/DeCo)
+
+  `Arxiv 2024/10`
+
+- *Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding* [[paper]](https://arxiv.org/pdf/2410.13321v1) [[code]]()
+
+  `Arxiv 2024/10`
+
+- *Mitigating Object Hallucination via Concentric Causal Attention* [[paper]](https://arxiv.org/pdf/2410.15926v1) [[code]](https://github.com/xing0047/cca-llava.git)
+
+  `Arxiv 2024/10`
+
+- *Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with Multi-Task Assessment and Stepwise Audio Reasoning* [[paper]](https://arxiv.org/pdf/2410.16130v1) 
+
+  `Arxiv 2024/10`
+
+- *V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization* [[paper]](https://arxiv.org/pdf/2411.02712v1) [[code]](https://github.com/YuxiXie/V-DPO)
+
+  `Arxiv 2024/11`
+
+- *Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization* [[paper]](https://arxiv.org/pdf/2411.10436v1) 
+
+  `Arxiv 2024/11`
+
+- *Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs* [[paper]](https://arxiv.org/pdf/2411.09968v1) 
+
+  `Arxiv 2024/11`
+
+- *Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination* [[paper]](https://arxiv.org/pdf/2411.12591v1) [[code]](https://github.com/Terry-Xu-666/visual_inference_chain)
+
+  `Arxiv 2024/11`
+
+- *CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs* [[paper]](https://arxiv.org/pdf/2411.12713v1) 
+
+  `Arxiv 2024/11`
 
 
