@@ -8,6 +8,10 @@ This section collects the survey papers about MLLM's hallucination.
 
   `Arxiv 2024/02`
 
+- **Hallucination of Multimodal Large Language Models: A Survey** [[paper]](https://arxiv.org/abs/2404.18930)
+
+  `Arxiv 2024/04`
+
 ## Hallucination Evaluation
 This section collects the benchmark papers on evaluating MLLM's hallucination.
 
